@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\Last1205_3"/>
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\TEST"/>
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\Midterm"/>
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\FrameChange3"/>
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\FrameChange2"/>
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\FrameChange"/>
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\MyFrameTest"/>
+			<item value="C:\Users\derek\Desktop\프로그래밍 연습\Java\ActionTest"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
